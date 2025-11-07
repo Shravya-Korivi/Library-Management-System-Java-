@@ -1,7 +1,3 @@
-//Pradeepaa 23011101095
-//Vaishnavi 2301110155
-//Shravya 23011101135
-
 package lib_mgmt_sys;
 
 import java.text.SimpleDateFormat;
